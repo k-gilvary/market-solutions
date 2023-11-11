@@ -16,7 +16,7 @@
     margin: 5px;
 }
 
-#logo > img {
+#nav-logo {
     width: 60%;
 }
 
@@ -78,4 +78,11 @@
     text-align: center;
     color: white;
     font-size: 20px;
+}
+
+/* VIDEO STYLINGS */
+#video {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
 }
